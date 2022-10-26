@@ -240,9 +240,7 @@ logs
 **/*.back.*
 
 ClientApp/node_modules
-
-node_modules
-bower_components
+ClientApp/bower_components
 
 *.sublime*
 
