@@ -230,3 +230,19 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
